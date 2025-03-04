@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b96cf1b6.css",
+    "main.js": "/my-portfolio/static/js/main.001870c8.js",
+    "static/js/415.ce69831e.chunk.js": "/my-portfolio/static/js/415.ce69831e.chunk.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/ticket.png": "/my-portfolio/static/media/ticket.4cfd25e0a1fd901f322c.png",
+    "static/media/learning.png": "/my-portfolio/static/media/learning.32f19f409958b6914d60.png",
+    "static/media/ecommerce.png": "/my-portfolio/static/media/ecommerce.d7d21c8ea98b44e3f17b.png",
+    "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.4f01919ede50371d3179.png",
+    "static/media/Harish_Anand_Resume.pdf": "/my-portfolio/static/media/Harish_Anand_Resume.425659803e776e85db6e.pdf",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/my-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.b96cf1b6.css.map": "/my-portfolio/static/css/main.b96cf1b6.css.map",
+    "main.001870c8.js.map": "/my-portfolio/static/js/main.001870c8.js.map",
+    "415.ce69831e.chunk.js.map": "/my-portfolio/static/js/415.ce69831e.chunk.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96cf1b6.css",
+    "static/js/main.001870c8.js"
+  ]
+}
